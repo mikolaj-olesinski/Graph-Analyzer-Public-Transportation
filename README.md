@@ -21,6 +21,9 @@ This project contains an in-depth analysis of optimal route-finding in public tr
   - **Hybrid Penalty Function:** Combines distance and directional penalties to provide a balanced solution in terms of travel time, cost, and number of transfers.
 - **Purpose:**  
   These variants allow for flexible optimization strategies depending on whether the priority is reducing travel time, cost, or the number of transfers.
+![dlugosc_trasy_czas_obliczen](https://github.com/user-attachments/assets/67ff87a5-8312-46cb-a7bf-d81146d607ae)
+
+  
 
 ## Tabu Search
 - **Overview:**  
@@ -35,6 +38,9 @@ This project contains an in-depth analysis of optimal route-finding in public tr
     - **Hybrid & Adaptive:** Mix various strategies to increase diversification in the search.
 - **Purpose:**  
   Provides a robust alternative to greedy search methods, seeking to optimize overall route efficiency by exploring a wider solution space.
+![porównanie_strategii](https://github.com/user-attachments/assets/bf7c7b26-1437-4b33-a5de-c5cf4698b731)
+
+  
 
 ## Key Findings
 - **Algorithm Comparison:**  
